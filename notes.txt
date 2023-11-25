@@ -1,0 +1,24 @@
+step 1:
+folder - app, store.js in it
+create store, configure store; just import statements
+
+step 2: 
+creating reducers
+we call them slices here in redux toolkit
+feature folder: can have many featuresfolders inside it
+adding methods.
+exporting reducers in three steps.
+export slice,reducer,reduced methods
+
+step 3: 
+store also needs awareness about reducer 
+so import there
+
+
+step 4: 
+using these in components to get access to values or sending values to add data
+ - useDispatch, disptach uses reducers to make changes in store
+ - useSelector, 
+
+
+

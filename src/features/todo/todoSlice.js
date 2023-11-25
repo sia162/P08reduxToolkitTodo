@@ -33,7 +33,7 @@ export const todoSlice = createSlice({
 })
 
 
-// exporting reducer:  above not done yet
+//exporting reducer:  above not done yet
 //exporting functionality
 export const {addTodo,removeTodo,updateTodo} = todoSlice.actions
 
