@@ -2,7 +2,7 @@ import { createSlice, nanoid } from "@reduxjs/toolkit";
 
 //initial state of state is important;
 const initialState = {
-  todos: [{ id: 1, text: "hell no" }],
+  todos: [],
 };
 
 //now we create slice; bigger version of reducer - reducer is a functionality

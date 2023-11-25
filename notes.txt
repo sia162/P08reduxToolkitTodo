@@ -21,4 +21,11 @@ using these in components to get access to values or sending values to add data
  - useSelector, this method gives access to state(which has all data)
 
 
+step 5:
+here also we need provider, wrapper
+passing values in provider
+and need;
+store?
+
+
 
