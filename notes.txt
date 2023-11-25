@@ -18,7 +18,7 @@ so import there
 step 4: 
 using these in components to get access to values or sending values to add data
  - useDispatch, disptach uses reducers to make changes in store
- - useSelector, 
+ - useSelector, this method gives access to state(which has all data)
 
 
 
